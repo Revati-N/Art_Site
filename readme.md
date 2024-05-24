@@ -4,4 +4,4 @@ The inspiration is from pinterest and scott sava's site.
 
 Thank you
 
-![Revati's Stats for this Project](https://github-readme-stats.vercel.app/api?username=revati-n&show_icons=true&theme=tokyonight)
+![Revati's Stats for this Project](https://github-readme-stats.vercel.app/api?username=revati-n&show_icons=true&theme=neon)
